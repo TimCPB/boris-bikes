@@ -31,6 +31,11 @@ $ rspec
 ## How I built it ##
 ​
   - *requirements/user stories*
+  
+  Objects  | Messages
+------------- | -------------
+User  |
+Customer  | find_by_surname
   - *My Process*
 ​
 ## Credits ##
