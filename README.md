@@ -34,8 +34,9 @@ $ rspec
   
   Objects  | Messages
 ------------- | -------------
-User  |
-Customer  | find_by_surname
+docking station  | release_bike
+bike  | working?
+
   - *My Process*
 ​
 ## Credits ##
